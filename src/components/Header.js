@@ -31,7 +31,7 @@ export default function Header() {
             }`}
         >
             <Link to={'/'} className="mr-auto">
-                <img src={'/images/logo.png'} alt="logo" className="h-12" />
+                <img src={'/logo192.png'} alt="logo" className="h-12" />
             </Link>
             <Link to={'/'} className="mx-5 hover:text-yellow-700">
                 文章列表
